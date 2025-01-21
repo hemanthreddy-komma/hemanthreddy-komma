@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm K.Hemanth Reddy</h1>
-<h3 align="center">A passionate Python Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthreddy-komma" alt="hemanthreddy-komma" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning,Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python Full Stack**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **mahithakomma2004@gmail.com**
 
