@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/d4f21e3d-6c5a-4463-b163-cc751fd58542.svg)](https://wakatime.com/@d4f21e3d-6c5a-4463-b163-cc751fd58542)
 <h1 align="center">Hey there! 👋 I'm Hemanth Reddy</h1> 
-<h3 align="center">A Passionate Software & Web Developer from India 🚀</h3>
+<h3 align="center">A Passionate Data Scientist & a Web Developer from India 🚀</h3>
 
 # 👨‍💻About me:
 
