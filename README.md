@@ -31,16 +31,6 @@
 <!--Coding Profiles Section End-->
 <!--Intro Section End-->
 
-
-# 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hemanth-reddy-komma-964269270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/komma-hemanth-reddy-964269270/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hemanth__reddy__k_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hemanth__reddy__k_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hemanthreddyk3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hemanthreddyk3" height="30" width="40" /></a>
-<a href="https://leetcode.com/HemanthKomma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/HemanthKomma/" height="30" width="40" /></a>
-
-
 <!--Skills Section Start-->
 <a href="https://github.com/hemanthreddy-komma">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
