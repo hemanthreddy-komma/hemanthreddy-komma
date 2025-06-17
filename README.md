@@ -56,6 +56,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hemanthreddy-komma&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthreddy-komma&theme=dark&hide_border=true" />
  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthreddy-komma&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+  <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram61&layout=compact&theme=radical" alt="masanavikramvasisht" />
  </p>
 
 # <p align="center">🏆GitHub Trophies</p>
