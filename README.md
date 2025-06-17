@@ -96,9 +96,6 @@
 <td>
   <img width="350em" src="https://github-readme-stats.vercel.app/api?username=hemanthreddy-komma&show_icons=true&locale=en&theme=blue" alt="GitHub Stats"/>
 </td>
-<td>
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthreddy-komma&theme=blue" alt="Streak Stats"/>
-</td>
 </tr>
 </table>
 
