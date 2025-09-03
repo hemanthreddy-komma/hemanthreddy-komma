@@ -154,7 +154,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/hemanthreddy-komma">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohemanthreddy-komma&theme=radical&border=7F3FBF&background=0D1117" alt="hemanth's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthreddy-komma&theme=radical&border=7F3FBF&background=0D1117" alt="hemanth's GitHub streak"/>
   </a>
 </p>
 
